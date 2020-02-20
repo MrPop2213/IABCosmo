@@ -1,1 +1,1 @@
-# IABCosmo
+![IABCosmo](img/logo.png)

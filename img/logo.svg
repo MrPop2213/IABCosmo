@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="91.357414mm"
+   height="32.195568mm"
+   viewBox="0 0 91.357415 32.195568"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="202.74083"
+     inkscape:cy="106.03922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1050"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.449153,-54.255918)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN';letter-spacing:0px;word-spacing:0px;fill:#cb3c33;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.878189"
+       y="86.451485"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="49.878189"
+         y="86.451485"
+         style="fill:#cb3c33;fill-opacity:1;stroke-width:0.26458332"><tspan
+           style="font-size:16.93333244px"
+           id="tspan833">I</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN Bold'"
+           id="tspan831">A</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN';letter-spacing:0px;word-spacing:0px;fill:#389826;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.351929"
+       y="69.954529"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="67.351929"
+         y="69.954529"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN Bold';fill:#389826;fill-opacity:1;stroke-width:0.26458332">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="78.231697"
+       y="86.091919"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan827"
+         x="78.231697"
+         y="86.091919"
+         style="fill:#9558b2;fill-opacity:1;stroke-width:0.26458332">C<tspan
+   style="font-size:16.93333244px"
+   id="tspan835">osmo</tspan></tspan></text>
+  </g>
+</svg>
