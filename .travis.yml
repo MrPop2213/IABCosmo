@@ -4,3 +4,6 @@ julia:
     - nightly
 os:
     - linux
+
+codecov: true
+coveralls: true
