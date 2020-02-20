@@ -2,3 +2,6 @@ name = "IABCosmo"
 uuid = "2b71c37f-2607-4c70-b3b5-a2020bca54b2"
 authors = ["Patrick Armstrong <patrick.armstrong@anu.edu.au>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
